@@ -54,11 +54,11 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Speed: 0.16
-    - _Waterfall_Opacity: 1.56
+    - _Speed: 0.2
+    - _Waterfall_Opacity: 2
     m_Colors:
-    - _Color1: {r: 0, g: 0.58741885, b: 0.871, a: 0}
-    - _Color2: {r: 0, g: 0.814, b: 0.814, a: 0}
+    - _Color1: {r: 0, g: 0.70002466, b: 0.87058824, a: 0}
+    - _Color2: {r: 0.81127626, g: 0.9716981, b: 0.9716981, a: 0}
     - _Offset: {r: 0, g: -0.09, b: 0, a: 0}
     - _Tiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
