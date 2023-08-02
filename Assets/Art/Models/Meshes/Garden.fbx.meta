@@ -18,12 +18,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Tile 01
-    second: {fileID: 2100000, guid: 980f3b35dafe54899ac1ab185ea57f49, type: 2}
+    second: {fileID: 2100000, guid: 6bc56493f1ee242fe8574a3d7c981626, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Tile 02
-    second: {fileID: 2100000, guid: 6bc56493f1ee242fe8574a3d7c981626, type: 2}
+    second: {fileID: 2100000, guid: 980f3b35dafe54899ac1ab185ea57f49, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
